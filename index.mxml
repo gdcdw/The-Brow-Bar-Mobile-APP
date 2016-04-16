@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" width="350" height="600" layout="absolute" backgroundGradientColors="[#000000, #000000]">
+	<mx:Image source="Image.gif" x="-9" y="14" width="359" height="554"/>
+</mx:Application>
